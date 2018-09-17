@@ -11,5 +11,5 @@ pip install --ignore-installed --upgrade "Download URL"
 
 | TF       | HW       | OS           | Python        | Supports                    |                                         |
 |----------|----------|--------------|---------------|-----------------------------|-----------------------------------------|
-| 1.10.1  | CPU      | Debian Stretch | 3.5 | XLA, AVX, AVX2, FMA, SSE4.2 | [Link](https://github.com/mind/wheels)  |
+| 1.10.1  | CPU      | Debian Stretch | 3.5 | XLA, AVX, AVX2, FMA, SSE4.2 | [Link](https://github.com/bukalapak/tensorflow-build/releases/download/1.10.1-py3.5/tensorflow-1.10.1-cp35-cp35m-linux_x86_64.whl)  |
 | 1.10.1   | CPU      | Debian Stretch | 3.6         | XLA, AVX, AVX2, FMA, SSE4.2 | [Link](https://github.com/bukalapak/tensorflow-build/releases/download/1.10.1-py3.6/tensorflow-1.10.1-cp36-cp36m-linux_x86_64.whl) |`
